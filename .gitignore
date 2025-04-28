@@ -1,0 +1,8 @@
+test.dat
+train.dat
+loss.dat
+xde/
+.png
+.npz
+.h5
+.xdmf
